@@ -5,4 +5,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ...   return a+b
 ... def subtract(a, b):
 ...   return a-b
-... 
+... def multiply(a, b):
+      return a*b
