@@ -8,3 +8,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
 def divide_new(a,b):
     reutrn a/b
 
+def multifle_new(a,b):
+    reutrn a*b
